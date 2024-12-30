@@ -1,0 +1,9 @@
+{
+    "plugins": [
+        ["module-resolve", {
+            "alias": {
+                "~": "./src",
+            }
+        }]
+    ]
+}
